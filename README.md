@@ -35,13 +35,13 @@ This project is a static website that mimics the look and feel of Spotify's inte
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/yourusername/Spotify-clone.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd spotify-clone
+   cd Spotify-clone
    ```
 
 3. **Open the `index.html` File**
